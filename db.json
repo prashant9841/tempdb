@@ -1,0 +1,241 @@
+{
+  "plans": {
+    "response": {
+      "status": "true/false",
+      "message": "lorem ipsum"
+    },
+    "data": [
+      {
+        "id": "12sssssees",
+        "status": "draft",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit.",
+        "createdAt": "date",
+        "updatedAt": "date",
+        "submittedAt": "date",
+        "kPins": [
+          "pin1",
+          "Pin2"
+        ],
+        "user": {
+          "id": "id",
+          "name": "User Name"
+        }
+      },
+      {
+        "id": "1122sedde",
+        "status": "submitted",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Lorem ipsum dolor sit amet consectetur adipisicingelit.Lorem ipsum dolor sit amet consectetur adipisicingelit.Lorem ipsum dolor sit amet consectetur adipisicingelit.Lorem ipsum dolor sit amet consectetur adipisicingelit.Lorem ipsum dolor sit amet consectetur adipisicingelit.",
+        "createdAt": "date",
+        "updatedAt": "date",
+        "submittedAt": "date",
+        "kPins": [
+          "pin1",
+          "Pin2"
+        ],
+        "user": {
+          "id": "id",
+          "name": "User one"
+        }
+      },
+      {
+        "id": "1122ee",
+        "userName": "Two Doe",
+        "submittedDate": "09/09/2021",
+        "status": "draft",
+        "content": "Details",
+        "createdAt": "date",
+        "updatedAt": "date",
+        "submittedAt": "yesterday",
+        "kPins": [
+          "pin1",
+          "Pin2",
+          "pin3"
+        ],
+        "user": {
+          "id": "id",
+          "name": "User two"
+        }
+      },
+      {
+        "id": "1122ee",
+        "userName": "Three Doe",
+        "submittedDate": "09/09/2021",
+        "status": "draft",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. C",
+        "createdAt": "date",
+        "updatedAt": "date",
+        "submittedAt": "03/03/2021",
+        "kPins": [
+          "pin1",
+          "Pin2"
+        ],
+        "user": {
+          "id": "id",
+          "name": "User three"
+        }
+      },
+      {
+        "id": "1122ee",
+        "userName": "Jhon Doe",
+        "submittedDate": "09/09/2021",
+        "status": "draft",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. C",
+        "createdAt": "date",
+        "updatedAt": "date",
+        "submittedAt": "date",
+        "kPins": [
+          "pin1",
+          "Pin2"
+        ],
+        "user": {
+          "id": "id",
+          "name": "User four"
+        }
+      }
+    ]
+  },
+  "create": {
+    "nameAndInfo": {
+      "fullName": "Name is Nicese",
+      "pmoNumber": "qsd",
+      "kPins": [
+        1234,
+        4312
+      ],
+      "reminder": "textarea",
+      "declaration": true
+    },
+    "whatAndWhy": {
+      "whatIsBioSec": true,
+      "whyIsBioSec": true,
+      "spread": true,
+      "improve": true,
+      "team": true
+    },
+    "step1": {
+      "offshore": {
+        "content": "Nices",
+        "applicable": true
+      },
+      "local": {
+        "content": "",
+        "applicable": false
+      },
+      "border": {
+        "content": "qwe",
+        "applicable": true
+      },
+      "isComplete": true
+    },
+    "step2": {
+      "expectations": {
+        "content": "",
+        "applicable": false
+      },
+      "training": {
+        "content": "",
+        "applicable": false
+      },
+      "communication": {
+        "content": "",
+        "applicable": false
+      },
+      "verify": {
+        "content": "",
+        "applicable": false
+      },
+      "isComplete": true
+    },
+    "step3": {
+      "rootstock": {
+        "content": "",
+        "applicable": false,
+        "tracing": false
+      },
+      "pollen": {
+        "content": "",
+        "applicable": false,
+        "tracing": true
+      },
+      "fertilizers": {
+        "content": "",
+        "applicable": false,
+        "tracing": false
+      },
+      "other": {
+        "content": "",
+        "applicable": false,
+        "tracing": false
+      },
+      "isComplete": true
+    },
+    "step4": {
+      "property": {
+        "content": "asd",
+        "applicable": true
+      },
+      "tools": {
+        "content": "",
+        "applicable": false
+      },
+      "vehicles": {
+        "content": "1333",
+        "applicable": false
+      },
+      "bins": {
+        "content": "1233",
+        "applicable": false
+      },
+      "staff": {
+        "content": "12333",
+        "applicable": false
+      },
+      "imported": {
+        "content": "",
+        "applicable": false
+      },
+      "protection": {
+        "content": "",
+        "applicable": false
+      },
+      "dispose": {
+        "content": "12333",
+        "applicable": false
+      },
+      "wild": {
+        "content": "",
+        "applicable": false
+      }
+    },
+    "step5": {
+      "catch": {
+        "content": "",
+        "applicable": false
+      },
+      "report": {
+        "content": "",
+        "applicable": false
+      },
+      "record": {
+        "content": "",
+        "applicable": false
+      },
+      "isComplete": true
+    },
+    "lastStep": {
+      "identification": {
+        "content": "",
+        "applicable": false
+      },
+      "effect": {
+        "content": "",
+        "applicable": false
+      },
+      "talkTo": {
+        "content": "",
+        "applicable": false
+      },
+      "isComplete": true
+    }
+  }
+}
