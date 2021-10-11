@@ -12,13 +12,31 @@
         "createdAt": "date",
         "updatedAt": "date",
         "submittedAt": "date",
+		"pmo": "a pmo",
+		"zipFile": "https://github.com/prashant9841/tempdb/blob/main/allpdfs.zip",
+		"mainFile": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf",
         "kPins": [
-          "pin1",
-          "Pin2"
+			{
+				"pin": "pin1",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin2",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin3",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin4",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			}
         ],
         "user": {
-          "id": "id",
-          "name": "User Name"
+			"email": "example@email.com",
+          	"id": "id",
+          	"name": "User Name"
         }
       },
       {
@@ -28,11 +46,29 @@
         "createdAt": "date",
         "updatedAt": "date",
         "submittedAt": "date",
+       "pmo": "a pmo",
+		"zipFile": "https://github.com/prashant9841/tempdb/blob/main/allpdfs.zip",
+		"mainFile": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf",
         "kPins": [
-          "pin1",
-          "Pin2"
+			{
+				"pin": "pin1",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin2",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin3",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin4",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			}
         ],
         "user": {
+			"email": "example@email.com",
           "id": "id",
           "name": "User one"
         }
@@ -46,12 +82,29 @@
         "createdAt": "date",
         "updatedAt": "date",
         "submittedAt": "yesterday",
+        "pmo": "a pmo",
+		"zipFile": "https://github.com/prashant9841/tempdb/blob/main/allpdfs.zip",
+		"mainFile": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf",
         "kPins": [
-          "pin1",
-          "Pin2",
-          "pin3"
+			{
+				"pin": "pin1",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin2",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin3",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin4",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			}
         ],
         "user": {
+			"email": "example@email.com",
           "id": "id",
           "name": "User two"
         }
@@ -65,11 +118,29 @@
         "createdAt": "date",
         "updatedAt": "date",
         "submittedAt": "03/03/2021",
+        "pmo": "a pmo",
+		"zipFile": "https://github.com/prashant9841/tempdb/blob/main/allpdfs.zip",
+		"mainFile": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf",
         "kPins": [
-          "pin1",
-          "Pin2"
+			{
+				"pin": "pin1",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin2",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin3",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin4",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			}
         ],
         "user": {
+			"email": "example@email.com",
           "id": "id",
           "name": "User three"
         }
@@ -83,11 +154,29 @@
         "createdAt": "date",
         "updatedAt": "date",
         "submittedAt": "date",
+        "pmo": "a pmo",
+		"zipFile": "https://github.com/prashant9841/tempdb/blob/main/allpdfs.zip",
+		"mainFile": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf",
         "kPins": [
-          "pin1",
-          "Pin2"
+			{
+				"pin": "pin1",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin2",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin3",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			},
+			{
+				"pin": "pin4",
+				"file": "https://www.tutorialspoint.com/vuejs/vuejs_tutorial.pdf"
+			}
         ],
         "user": {
+			"email": "example@email.com",
           "id": "id",
           "name": "User four"
         }
